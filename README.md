@@ -38,6 +38,7 @@ To build this project run
 ```
 
 ## Screenshot
-![image](https://user-images.githubusercontent.com/104726176/213192537-999ea59c-ff28-4209-be8c-767a91390a82.png)
+![image](https://user-images.githubusercontent.com/104726176/213192724-93f86592-de81-4148-aec9-3bb5d9427311.png)
+
 
 
